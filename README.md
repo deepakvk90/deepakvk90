@@ -117,10 +117,10 @@ I'm a **results-driven finance professional** who loves the intersection of **tr
 
 | 🏆 Certification | 🏢 Platform |
 |---|---|
-| Get Job Ready: Power BI Data Analytics for All Levels 3.0 | Udemy / Online |
-| Excel: Mother of Business Intelligence | Udemy / Online |
-| SQL for Data Science | Coursera / Online |
-| Python: Beginner to Advanced For Data Professionals | Udemy / Online |
+| Get Job Ready: Power BI Data Analytics for All Levels 3.0 | Codebasics|
+| Excel: Mother of Business Intelligence | Codebasics |
+| SQL for Data Science | Codebasics |
+| Python: Beginner to Advanced For Data Professionals | Codebasics |
 
 ---
 
